@@ -1,1 +1,1 @@
-# bazarlistVue
+# Bazar list creating with Vue.JS
